@@ -1,0 +1,28 @@
+body{
+
+    background:#1e1f22;
+    color:white;
+
+}
+
+.navbar{
+
+    background:#2b2d31;
+
+}
+
+.logo{
+
+    color:#74d26b;
+    font-weight:bold;
+    font-size:30px;
+
+}
+
+.card-custom{
+
+    background:#2b2d31;
+    border:none;
+    border-radius:15px;
+
+}
